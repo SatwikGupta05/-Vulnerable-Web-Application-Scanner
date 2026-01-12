@@ -1,0 +1,18 @@
+# SOC-Style Web Vulnerability Scanner Dependencies
+
+# HTTP & Networking
+requests>=2.31.0
+urllib3>=2.0.0
+
+# HTML Parsing & Crawling
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# SSL/TLS Analysis
+cryptography>=41.0.0
+
+# Report Generation
+Jinja2>=3.1.0
+
+# Additional utilities
+python-dateutil>=2.8.0
